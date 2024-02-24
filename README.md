@@ -1,6 +1,7 @@
 # bevy-tokio-tasks
 
-A simple Bevy plugin which integrates a Tokio runtime into a Bevy app.
+A simple Bevy plugin which integrates a Tokio runtime into a Bevy app. 
+->> Updated for bevy 0.13.0
 
 [![crates.io](https://img.shields.io/crates/v/bevy-tokio-tasks)](https://crates.io/crates/bevy-tokio-tasks) [![docs.rs](https://img.shields.io/docsrs/bevy-tokio-tasks)](https://docs.rs/bevy-tokio-tasks/latest/bevy_tokio_tasks/)
 
